@@ -1,0 +1,6 @@
+{
+  "name": "VendorBridge",
+  "description": "Secure Enterprise Procurement and SRM ERP Portal including real-time RFQ matching and commercial bid compliance matrices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
